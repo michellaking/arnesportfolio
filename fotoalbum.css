@@ -59,3 +59,17 @@ img {
   border-style: solid;
   border-color: black;
 }
+
+@media screen and (max-width: 1150px) {
+  .container {
+    width: 1000px;
+  }
+
+  footer {
+    width: 1000px;
+  }
+
+  header {
+    width: 1000px;
+  }
+}
